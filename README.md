@@ -1,5 +1,5 @@
 <div id="header" align="center">
     <h1 align="center"> Fallas del turbofan </h1>
-    <h3 align="center">Una empresa del rubro de telecomunicaciones que tiene como clientes a la población, presenta un perdida de clientes recientemente.</h3>
-    <h3 align="center">Se pudo determinar apartir de la EDA que las columnas o datos que influyen mucho en las perdidas de clientes en el área de telecomunicaciones es tipo de contrato que se realiza. De la misma manera en un análisis multivariado los contratos de mes a mes frente a otras columnas y sus respectivos valores influyen mucho en la salida de clientes en la operadora.</h3>
+    <h3 align="center">Nuestro enfoque sera la prediccion del RUL del motor turbofan considerando la falla y capturando con mayor precision valores RUL bajos para evitar poner en riesgo el motor  turbofan.</h3>
+    <h3 align="center">En este cuaderno se analizara, Carga de datos mediante pandas asi como su inspeccion, Visualizacion de datos, ingenieria de funciones, Implementacion de una regresion</h3>
 </div>
